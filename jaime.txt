@@ -1,7 +1,26 @@
-my contribution
+
 notes git reset --hard <hash code yellow thing > will be remove
 notes git reset --soft <hash code yellow thing > will be set to stage level
 or  git reset --hard HEAD~1git 
 in reset all above not including the hash code itself
 
 in revert all plus itself will be reverted in addition all history is  intact 
+
+now branching 
+
+git branch <name branch> create branch
+git branch  view  all branch 
+
+note  to  chech repo  just  do  a fetch to  update local 
+
+git  checkout <name of  branch > to move to the  branch 
+
+git branch -r to see branch in remote
+
+or 
+
+git  checkout 
+
+
+
+git switch <branch get from  remote>

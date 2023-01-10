@@ -2,3 +2,6 @@ my contribution
 notes git reset --hard <hash code yellow thing > will be remove
 notes git reset --soft <hash code yellow thing > will be set to stage level
 or  git reset --hard HEAD~1git 
+in reset all above not including the hash code itself
+
+in revert all plus itself will be reverted in addition all history is  intact 

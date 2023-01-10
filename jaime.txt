@@ -1,1 +1,4 @@
 my contribution
+notes git reset --hard <hash code yellow thing > will be remove
+notes git reset --soft <hash code yellow thing > will be set to stage level
+or  git reset --hard HEAD~1git 

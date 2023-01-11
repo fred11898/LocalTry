@@ -22,6 +22,10 @@ git ignore ???
 git diff to check the  diff on the  work done on spicified file
 git diff <file name >
 git diff --staged <filename>cl
+or 
+if commit already 
+
+git show <hashcode filename>
 
 
 

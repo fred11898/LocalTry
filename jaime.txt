@@ -36,3 +36,14 @@ git  checkout
 
 
 git switch <branch get from  remote>
+
+git stash is to temporarily save the status so  you can go to other branch
+ to retrive 
+
+ git stash pop
+  retrive 
+
+  ++ git stash pop 0 to 1 2 3 4
+  to spicify the  stash 
+
+  git stash list to show stash list

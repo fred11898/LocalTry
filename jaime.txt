@@ -17,6 +17,14 @@ git  checkout <name of  branch > to move to the  branch
 
 git branch -r to see branch in remote
 
+git ignore ??? 
+
+git diff to check the  diff on the  work done on spicified file
+git diff <file name >
+git diff --staged <filename>cl
+
+
+
 or 
 
 git  checkout 
